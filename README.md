@@ -1,2 +1,3 @@
 # hello-world
-Sample repository
+
+My name is Manus!  I am using git.
